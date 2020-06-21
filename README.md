@@ -1,5 +1,5 @@
 # pemdas-01
-Praktikum Pemrograman Dasar Bab 1
+Praktikum Pemrograman Dasar Bab 1. Input, Proses, Output
 
 Sebuah rumah makan membutuhkan aplikasi kasir untuk membantu kinerja kasir. Menu yang tersedia di toko ini adalah : 
   1.	Bakso			Rp. 7.000,00
